@@ -14,9 +14,10 @@
 \usepackage{gensymb}
 \usepackage{eurosym}
 \usepackage{textcomp}
+\usepackage{verbatim}
 
 \renewcommand{\familydefault}{\sfdefault}
-
+\renewcommand*\contentsname{Inhoudsopgave}
 
 
 \makeindex
@@ -28,9 +29,12 @@
 \centering
 \par\vspace{1cm}
 {\scshape\LARGE Carice Cars \par}
-\vspace{3cm}
+\vspace{1cm}
 {\scshape\Large Plan van Aanpak  \par}
 \vspace{0.5cm}
+
+\includegraphics[scale=0.5]{figures/logo.jpeg}
+
 \vfill
 {\Large\itshape Chun Lam (13114069)\par}
 
@@ -76,14 +80,15 @@
 \label{ch:leerdoelen}
 \input{leerdoelen}
 
+\begin{comment}
 \begin{thebibliography}{9}
 \input{bibliography}
-
 \end{thebibliography}
+\end{comment}
 
 \begin{appendix}
-\chapter{Stagehandleiding}
-\label{app:handleiding}
+\chapter{Competentie definities}
+\label{app:competenties}
 \includepdf[pages={12-14}]{docs/stagehandleiding.pdf}
 
 \end{appendix}
