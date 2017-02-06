@@ -1,0 +1,51 @@
+Carice cars zoekt een eenvoudige hightech oplossing, voor de Carice Mk1 om de auto starten. \newline
+\section{Achtergrond}
+Een draadloze transmitter zoals die nu bij veel auto's is toegepast, is momenteel productietechnisch teveel. Er moet namelijk bij elke auto naast een ontvanger, ook een printplaat met batterij en behuizing geproduceerd worden. Daarnaast raakt de batterij ook leeg bij een systeem als keyless entry. \newline
+Tegenwoordig zijn overal NFC-sleutels in te kopen. Dit is een goedkope, hightech oplossing waardoor er geen sleutels geproduceerd hoeven te worden. 
+Daarnaast is er geen batterij meernodig, wat de robuustheid ten goede komt.
+
+\section{Concept}
+Een klant stapt in de auto, en houdt de sleutel tegen een gebied op het dashboard. De auto wordt in de actieve toestand gebracht, eventueel met een knop ter bevestiging.
+
+\section{Details}
+Er wordt een PCB gemaakt. Daarop komt een microcontroller die de verschillende componenten bestuurd. Deze zijn een NFC authenticatiechip (deze wordt waarschijnlijk de Mifare Desfi), een LIN bus transceiver, en een antenne voor NFC. 
+De PCB zal elektrisch en functioneel getest worden.
+Daarnaast zal er firmware geschreven worden om het systeem werkend te krijgen.
+Vanwege omstandigheden worden de exacte details nog aangevuld. Dit zal gebeuren in week 2.
+
+\section{Voorlopige technische specificatie}
+
+Voor de opdracht zijn er voorlopige technische specificaties opgegeven. Deze kunnen gedurende de stage in overleg nog gewijzigd worden.
+
+%TODO Exacte afmeting van de pcb. Activatie van de auto binnen bepaalde tijd. Kosten, budget. 
+
+\begin{itemize}
+	\item Voedingsspanning van 7 - 20 V
+	\item Atmel Microcontroller
+	\item Automotive gekeurde componenten
+	\item 1x LIN Bus
+	\item Veilige NFC authenticatie. Er mogen geen bekende hacks zijn.
+	\item Systeem moet op commando wakker gemaakt worden via LIN, op circa 1 Hz.
+	\item Het systeem moet in de idle toetstand minder dan 1 mA verbruiken.
+\end{itemize}
+
+Buiten de scope vallen onder andere de onderstaande punten.
+
+\section{Scope}
+
+\subsection{Eind producten}
+Voor dit project zijn de volgende eindproducten gedefinieërd.
+\begin{itemize}
+	\item Een Plan van Aanpak (PvA)
+	\item Werkende PCB
+	\item Software voor de module om de auto mee te starten
+	\item Documentatie van de software
+	\item Een designreport voor Carice Cars, en de HHS
+\end{itemize}
+
+Onderstaande punten vallen buiten de scope van dit project.
+
+%TODO exact de scope definieren van het project. Wat valt erbuiten?
+\begin{itemize}
+	\item Het inbouwen van de PCB
+\end{itemize}
