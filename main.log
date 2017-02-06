@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.1.18)  6 FEB 2017 16:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.1.18)  6 FEB 2017 16:31
 entering extended mode
 **./main.tex
 (main.tex
@@ -906,7 +906,7 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <14.4> not available
 
 {C:/Users/chun/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 53.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 55.
  (main.toc
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
@@ -922,13 +922,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \newpage
+l.56 \newpage
               [1
 
 ]
 Chapter 1.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 57.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 59.
 (introduction.tex) [1
 
 ]
@@ -944,21 +944,21 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 36.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 35.
 ) [3]
 Chapter 3.
-(planning.tex <figures/planning.png, id=102, 731.73375pt x 376.40625pt>
+(planning.tex <figures/planning.png, id=101, 731.73375pt x 376.40625pt>
 File: figures/planning.png Graphic file (type png)
 
 <use figures/planning.png>
-Package pdftex.def Info: figures/planning.png used on input line 3.
+Package pdftex.def Info: figures/planning.png used on input line 5.
 (pdftex.def)             Requested size: 345.0pt x 177.46806pt.
 ) [4
 
  <./figures/planning.png>]
 Chapter 4.
 (eindverslag.tex
-Overfull \hbox (24.45538pt too wide) in paragraph at lines 3--4
+Overfull \hbox (24.45538pt too wide) in paragraph at lines 1--2
 \OT1/phv/m/n/10 Het eind-ver-slag zal in La-TEX opge-maakt wor-den. Daar-naast 
 is er een geheimshoud-
  []
@@ -971,35 +971,35 @@ Chapter 5.
 
 ] (bibliography.tex)
 
-LaTeX Warning: Empty `thebibliography' environment on input line 80.
+LaTeX Warning: Empty `thebibliography' environment on input line 82.
 
 [7
 
 ]
 Appendix A.
-<docs/stagehandleiding.pdf, id=134, 597.55246pt x 845.19763pt>
+<docs/stagehandleiding.pdf, id=133, 597.55246pt x 845.19763pt>
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf>
-Package pdftex.def Info: docs/stagehandleiding.pdf used on input line 85.
+Package pdftex.def Info: docs/stagehandleiding.pdf used on input line 87.
 (pdftex.def)             Requested size: 597.551pt x 845.19557pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
  <use docs/stagehandleiding.pdf>
-Package pdftex.def Info: docs/stagehandleiding.pdf used on input line 85.
+Package pdftex.def Info: docs/stagehandleiding.pdf used on input line 87.
 (pdftex.def)             Requested size: 597.551pt x 845.19557pt.
 
-<docs/stagehandleiding.pdf, id=137, page=12, 597.55246pt x 845.19763pt>
+<docs/stagehandleiding.pdf, id=136, page=12, 597.55246pt x 845.19763pt>
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 12>
 Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 8
-5.
+7.
 (pdftex.def)             Requested size: 597.551pt x 845.19557pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 12>
 Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 8
-5.
+7.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
  [8
 
@@ -1008,89 +1008,87 @@ File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 12>
 Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 8
-5.
+7.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 12>
 Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 8
-5.
+7.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 12>
 Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 8
-5.
+7.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
  [9 <./docs/stagehandleiding.pdf>]
-<docs/stagehandleiding.pdf, id=156, page=13, 597.55246pt x 845.19763pt>
+<docs/stagehandleiding.pdf, id=155, page=13, 597.55246pt x 845.19763pt>
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 13>
 Package pdftex.def Info: docs/stagehandleiding.pdf, page13 used on input line 8
-5.
+7.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 13>
 Package pdftex.def Info: docs/stagehandleiding.pdf, page13 used on input line 8
-5.
+7.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 13>
 Package pdftex.def Info: docs/stagehandleiding.pdf, page13 used on input line 8
-5.
+7.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
  [10 <./docs/stagehandleiding.pdf>]
-<docs/stagehandleiding.pdf, id=171, page=14, 597.55246pt x 845.19763pt>
+<docs/stagehandleiding.pdf, id=170, page=14, 597.55246pt x 845.19763pt>
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 14>
 Package pdftex.def Info: docs/stagehandleiding.pdf, page14 used on input line 8
-5.
+7.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 14>
 Package pdftex.def Info: docs/stagehandleiding.pdf, page14 used on input line 8
-5.
+7.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 14>
 Package pdftex.def Info: docs/stagehandleiding.pdf, page14 used on input line 8
-5.
+7.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
  [11 <./docs/stagehandleiding.pdf>]
-Appendix B.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
-[12
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
- (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
+(main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 71597B2218C293CBD1ECFF86682F3C1D;843.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
+(rerunfilecheck)             Checksum: 0D70D82F2F41CF4439882CE4D5711A9F;801.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
  ) 
 Here is how much of TeX's memory you used:
- 8632 strings out of 493334
- 123671 string characters out of 3139255
- 218774 words of memory out of 3000000
- 11968 multiletter control sequences out of 15000+200000
- 27018 words of font info for 45 fonts, out of 3000000 for 9000
+ 8653 strings out of 493334
+ 123883 string characters out of 3139255
+ 218745 words of memory out of 3000000
+ 11980 multiletter control sequences out of 15000+200000
+ 34211 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,18n,46p,425b,501s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
-/helvetic/uhvro8a.pfb>
-Output written on main.pdf (14 pages, 340122 bytes).
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic
+/uhvro8a.pfb>
+Output written on main.pdf (13 pages, 344721 bytes).
 PDF statistics:
- 215 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 213 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 148 words of extra memory for PDF output out of 10000 (max. 10000000)
 
