@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.1.18)  6 FEB 2017 16:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.1.18)  7 FEB 2017 11:13
 entering extended mode
 **./main.tex
 (main.tex
@@ -802,6 +802,12 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks26
+\verbatim@line=\toks27
+\verbatim@in@stream=\read1
+)
 \@indexfile=\write3
 \openout3 = `main.idx'.
 
@@ -810,27 +816,27 @@ Writing index file main.idx
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 25.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 24.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 25.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
@@ -842,12 +848,12 @@ File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 \scratchbox=\box33
 \nofMPsegments=\count118
 \nofMParguments=\count119
-\everyMPshowfont=\toks26
+\everyMPshowfont=\toks28
 \MPscratchCnt=\count120
 \MPscratchDim=\dimen130
 \MPnumerator=\count121
 \makeMPintoPDFobject=\count122
-\everyMPtoPDFconversion=\toks27
+\everyMPtoPDFconversion=\toks29
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -862,7 +868,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 25.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -872,9 +878,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count123
 )
-LaTeX Info: Redefining \ref on input line 24.
-LaTeX Info: Redefining \pageref on input line 24.
-LaTeX Info: Redefining \nameref on input line 24.
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
 
 (main.out) (main.out)
 \@outlinefile=\write4
@@ -891,28 +897,35 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 \symgns@font=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/phv/m/n --> TS1/phv/bx/n on input line 24.
-Package gensymb Info: Math companion symbols declared on input line 24.
-LaTeX Info: Redefining \degree on input line 24.
-LaTeX Info: Redefining \celsius on input line 24.
+(Font)                  TS1/phv/m/n --> TS1/phv/bx/n on input line 25.
+Package gensymb Info: Math companion symbols declared on input line 25.
+LaTeX Info: Redefining \degree on input line 25.
+LaTeX Info: Redefining \celsius on input line 25.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 24.
-LaTeX Info: Redefining \ohm on input line 24.
-Package gensymb Info: Using \textohm for \ohm on input line 24.
-Package gensymb Info: Using \textmu for \micro on input line 24.
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 35.
- [1
+erthousand on input line 25.
+LaTeX Info: Redefining \ohm on input line 25.
+Package gensymb Info: Using \textohm for \ohm on input line 25.
+Package gensymb Info: Using \textmu for \micro on input line 25.
 
-{C:/Users/chun/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<figures/logo.jpeg, id=55, 501.875pt x 501.875pt>
+File: figures/logo.jpeg Graphic file (type jpg)
+ <use figures/logo.jpeg>
+Package pdftex.def Info: figures/logo.jpeg used on input line 36.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 39.
+
+[1
+
+{C:/Users/chun/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figures/lo
+go.jpeg>]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 55.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 59.
  (main.toc
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
 LaTeX Font Info:    Try loading font information for TS1+phv on input line 3.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1phv.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1phv.fd"
 File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
 ))
 \tf@toc=\write5
@@ -922,13 +935,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.56 \newpage
+l.60 \newpage
               [1
 
 ]
 Chapter 1.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 59.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 63.
 (introduction.tex) [1
 
 ]
@@ -942,12 +955,9 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 2.
 [2
 
-]
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 35.
-) [3]
+]) [3]
 Chapter 3.
-(planning.tex <figures/planning.png, id=101, 731.73375pt x 376.40625pt>
+(planning.tex <figures/planning.png, id=97, 731.73375pt x 376.40625pt>
 File: figures/planning.png Graphic file (type png)
 
 <use figures/planning.png>
@@ -969,116 +979,110 @@ is er een geheimshoud-
 Chapter 5.
 (leerdoelen.tex) [6
 
-] (bibliography.tex)
-
-LaTeX Warning: Empty `thebibliography' environment on input line 82.
-
-[7
-
 ]
 Appendix A.
-<docs/stagehandleiding.pdf, id=133, 597.55246pt x 845.19763pt>
+<docs/stagehandleiding.pdf, id=124, 597.55246pt x 845.19763pt>
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf>
-Package pdftex.def Info: docs/stagehandleiding.pdf used on input line 87.
+Package pdftex.def Info: docs/stagehandleiding.pdf used on input line 92.
 (pdftex.def)             Requested size: 597.551pt x 845.19557pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
  <use docs/stagehandleiding.pdf>
-Package pdftex.def Info: docs/stagehandleiding.pdf used on input line 87.
+Package pdftex.def Info: docs/stagehandleiding.pdf used on input line 92.
 (pdftex.def)             Requested size: 597.551pt x 845.19557pt.
 
-<docs/stagehandleiding.pdf, id=136, page=12, 597.55246pt x 845.19763pt>
+<docs/stagehandleiding.pdf, id=127, page=12, 597.55246pt x 845.19763pt>
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 12>
-Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 8
-7.
+Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 9
+2.
 (pdftex.def)             Requested size: 597.551pt x 845.19557pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 12>
-Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 8
-7.
+Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 9
+2.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
- [8
+ [7
 
 ]
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 12>
-Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 8
-7.
+Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 9
+2.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 12>
-Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 8
-7.
+Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 9
+2.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
 <use docs/stagehandleiding.pdf, page 12>
-Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 8
-7.
+Package pdftex.def Info: docs/stagehandleiding.pdf, page12 used on input line 9
+2.
+(pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
+ [8 <./docs/stagehandleiding.pdf>]
+<docs/stagehandleiding.pdf, id=146, page=13, 597.55246pt x 845.19763pt>
+File: docs/stagehandleiding.pdf Graphic file (type pdf)
+
+<use docs/stagehandleiding.pdf, page 13>
+Package pdftex.def Info: docs/stagehandleiding.pdf, page13 used on input line 9
+2.
+(pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
+File: docs/stagehandleiding.pdf Graphic file (type pdf)
+
+<use docs/stagehandleiding.pdf, page 13>
+Package pdftex.def Info: docs/stagehandleiding.pdf, page13 used on input line 9
+2.
+(pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
+File: docs/stagehandleiding.pdf Graphic file (type pdf)
+
+<use docs/stagehandleiding.pdf, page 13>
+Package pdftex.def Info: docs/stagehandleiding.pdf, page13 used on input line 9
+2.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
  [9 <./docs/stagehandleiding.pdf>]
-<docs/stagehandleiding.pdf, id=155, page=13, 597.55246pt x 845.19763pt>
+<docs/stagehandleiding.pdf, id=161, page=14, 597.55246pt x 845.19763pt>
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
-<use docs/stagehandleiding.pdf, page 13>
-Package pdftex.def Info: docs/stagehandleiding.pdf, page13 used on input line 8
-7.
+<use docs/stagehandleiding.pdf, page 14>
+Package pdftex.def Info: docs/stagehandleiding.pdf, page14 used on input line 9
+2.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
-<use docs/stagehandleiding.pdf, page 13>
-Package pdftex.def Info: docs/stagehandleiding.pdf, page13 used on input line 8
-7.
+<use docs/stagehandleiding.pdf, page 14>
+Package pdftex.def Info: docs/stagehandleiding.pdf, page14 used on input line 9
+2.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
 File: docs/stagehandleiding.pdf Graphic file (type pdf)
 
-<use docs/stagehandleiding.pdf, page 13>
-Package pdftex.def Info: docs/stagehandleiding.pdf, page13 used on input line 8
-7.
+<use docs/stagehandleiding.pdf, page 14>
+Package pdftex.def Info: docs/stagehandleiding.pdf, page14 used on input line 9
+2.
 (pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
  [10 <./docs/stagehandleiding.pdf>]
-<docs/stagehandleiding.pdf, id=170, page=14, 597.55246pt x 845.19763pt>
-File: docs/stagehandleiding.pdf Graphic file (type pdf)
-
-<use docs/stagehandleiding.pdf, page 14>
-Package pdftex.def Info: docs/stagehandleiding.pdf, page14 used on input line 8
-7.
-(pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
-File: docs/stagehandleiding.pdf Graphic file (type pdf)
-
-<use docs/stagehandleiding.pdf, page 14>
-Package pdftex.def Info: docs/stagehandleiding.pdf, page14 used on input line 8
-7.
-(pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
-File: docs/stagehandleiding.pdf Graphic file (type pdf)
-
-<use docs/stagehandleiding.pdf, page 14>
-Package pdftex.def Info: docs/stagehandleiding.pdf, page14 used on input line 8
-7.
-(pdftex.def)             Requested size: 562.1644pt x 795.14362pt.
- [11 <./docs/stagehandleiding.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
 
 (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0D70D82F2F41CF4439882CE4D5711A9F;801.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
+(rerunfilecheck)             Checksum: BF6D920710309A1B6CAD56C7F8FB371F;738.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 97.
  ) 
 Here is how much of TeX's memory you used:
- 8653 strings out of 493334
- 123883 string characters out of 3139255
- 218745 words of memory out of 3000000
- 11980 multiletter control sequences out of 15000+200000
- 34211 words of font info for 61 fonts, out of 3000000 for 9000
+ 8677 strings out of 493334
+ 124339 string characters out of 3139255
+ 219387 words of memory out of 3000000
+ 12006 multiletter control sequences out of 15000+200000
+ 32578 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,18n,46p,425b,501s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
@@ -1086,9 +1090,9 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Program Files/MiKTeX
 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic
 /uhvro8a.pfb>
-Output written on main.pdf (13 pages, 344728 bytes).
+Output written on main.pdf (12 pages, 361172 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
- 148 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 203 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 500000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
